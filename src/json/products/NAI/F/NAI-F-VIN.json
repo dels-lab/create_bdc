@@ -1,0 +1,32 @@
+{
+  "NAI-F-NAT-COU": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "NAI-F-NAT-FAN": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "NAI-F-NAT-ICO": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  },
+  "NAI-F-NAT-SEP": {
+    "Faconnage": "F001",
+    "Rainage": "R001",
+    "Massicot": "M006",
+    "Template": "T014"
+  },
+  "NAI-F-NAT-TAB": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "NAI-R-CIN-BEB": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T007"
+  },
+  "NAI-R-CIN-BOB": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T004"
+  },
+  "NAI-R-CIN-CHA": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T007"
+  },
+  "NAI-R-CIN-POP": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "NAI-R-CIN-TIC": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T015"
+  }
+}

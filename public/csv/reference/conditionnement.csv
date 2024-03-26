@@ -1,0 +1,8 @@
+﻿;Unité;Libellé;PU_tranche01;PU_tranche02;Standard
+C001;M;Mise Sous Pli Mécanisable Dans Une Enveloppe Mécanisable;49,44;49,44;false
+C002;M;Mise Sous Pli Mécanisable Enveloppe Non Mécanisable;54,384;50,985;false
+C003;M;Mise Sous Pli Mécanisable Dans Une Enveloppe Mécanisable - Patte Non Collée;49,44;46,35;false
+C004;M;Mise Sous Pli Manuelle Dans Une Enveloppe Mécanisable;94,76;94,76;true
+C005;M;Mise Sous Pli Manuelle Enveloppe Non Mécanisable;113,3;113,3;false
+C006;U;Conditionnement En Colis De Document Pour Expédition Colis;6,489;6,489;true
+C007;U;Conditionnement Sous Film De Document Pour Expédition Colis;2,472;2,472;false

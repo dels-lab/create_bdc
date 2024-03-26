@@ -1,0 +1,16 @@
+﻿;Unité;Libellé;PU_tranche01;PU_tranche02;Standard;Type
+I000;M;Pas d'impression;0;0;true;Aucun
+I001;M;Neryos - Cmjn - C6 (114X229);58,5555;48,8529;true;NERYOS
+I002;M;Neryos - Noir - C6 (114X229);41,9725;32,2699;false;NERYOS
+I00A;M;Ricoh - Cmjn - Rv - 18 Up;9,579;8,7756;true;RICOH
+I00B;M;Ricoh - Cmjn - Rv - 20 Up;8,6108;7,9001;true;RICOH
+I146;M;Neryos - Noir - C5 (162X229) Hors Achat Enveloppe;45,8762;36,1839;false;NERYOS
+I147;M;Neryos - Noir - C4 (324X229) Hors Achat Enveloppe;62,9227;53,2201;false;NERYOS
+I148;M;Neryos - Noir - Autres Formats;45,8762;36,1839;false;NERYOS
+I149;M;Neryos - Cmjn - C5 (162X229) Hors Achat Enveloppe;69,5765;59,8739;false;NERYOS
+I150;M;Neryos - Cmjn - C4 (324X229) Hors Achat Enveloppe;103,1957;93,4931;false;NERYOS
+I151;M;Neryos - Cmjn - Autres Formats;69,5765;59,8739;false;NERYOS
+I339;M;Ricoh - Cmjn - Rv - 2 Up;86,1492;79,0422;true;RICOH
+I341;M;Ricoh - Cmjn - Rv - 3 Up;57,4328;52,6948;true;RICOH
+I342;M;Ricoh - Cmjn - Rv - 4 Up;43,0746;39,5211;true;RICOH
+I344;M;Ricoh - Cmjn - Rv - 8 Up;21,5373;19,7554;true;RICOH

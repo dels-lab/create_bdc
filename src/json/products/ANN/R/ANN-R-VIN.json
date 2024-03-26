@@ -1,0 +1,92 @@
+{
+  "ANN-R-VIN-ENF-CIR": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "ANN-R-VIN-ENF-DIN": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "ANN-R-VIN-ENF-ETO": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T007"
+  },
+  "ANN-R-VIN-ENF-GRA": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  },
+  "ANN-R-VIN-ENF-SUP": {
+    "Faconnage": "F001",
+    "Rainage": "R001",
+    "Massicot": "M010",
+    "Template": "T001"
+  },
+  "ANN-R-VIN-ADO-BUL": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  },
+  "ANN-R-VIN-ADO-CAN": {
+    "Faconnage": "F001",
+    "Rainage": "R001",
+    "Massicot": "M006",
+    "Template": "T014"
+  },
+  "ANN-R-VIN-ADO-MAC": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T007"
+  },
+  "ANN-R-VIN-ADO-PIX": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "ANN-R-VIN-ADO-POI": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "ANN-R-VIN-ADU-GUI": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T004"
+  },
+  "ANN-R-VIN-ADU-POL": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  },
+  "ANN-R-VIN-ADU-RET": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "ANN-R-VIN-ADU-VIN": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M008",
+    "Template": "T005"
+  },
+  "ANN-R-VIN-ADU-VOI": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T007"
+  }
+}

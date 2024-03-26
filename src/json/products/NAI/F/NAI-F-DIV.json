@@ -1,0 +1,32 @@
+{
+  "NAI-F-DIV-ARC": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "NAI-F-DIV-LET": {
+    "Faconnage": "F001",
+    "Rainage": "R001",
+    "Massicot": "M010",
+    "Template": "T001"
+  },
+  "NAI-F-DIV-MAG": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  },
+  "NAI-F-DIV-PHO": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T004"
+  },
+  "NAI-F-DIV-PRO": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T015"
+  }
+}

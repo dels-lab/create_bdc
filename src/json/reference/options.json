@@ -1,0 +1,51 @@
+{
+  "O000": {
+    "Unité": "M",
+    "Libellé": "Insertion Document -Aucune",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "O002": {
+    "Unité": "M",
+    "Libellé": "Collage",
+    "PU_tranche01": "46,35",
+    "PU_tranche02": "41,2",
+    "Standard": "false"
+  },
+  "O004": {
+    "Unité": "U",
+    "Libellé": "Insertion Sous Tube De Document Pour Expédition Colis",
+    "PU_tranche01": "2,472",
+    "PU_tranche02": "2,472",
+    "Standard": "false"
+  },
+  "O901": {
+    "Unité": "M",
+    "Libellé": "Insertion Document -Sans Rapprochement (Par Document)",
+    "PU_tranche01": "7,21",
+    "PU_tranche02": "5,15",
+    "Standard": "true"
+  },
+  "O902": {
+    "Unité": "M",
+    "Libellé": "Insertion Document -Avec Rapprochement (Par Document)",
+    "PU_tranche01": "30,9",
+    "PU_tranche02": "25,75",
+    "Standard": "true"
+  },
+  "O903": {
+    "Unité": "M",
+    "Libellé": "Insertion Doc À L'Italienne Ou À Droite -Sans Rapprochement (Par Document)",
+    "PU_tranche01": "7,931",
+    "PU_tranche02": "5,665",
+    "Standard": "false"
+  },
+  "O904": {
+    "Unité": "M",
+    "Libellé": "Insertion Doc À L'Italienne Ou À Droite -Avec Rapprochement (Par Document)",
+    "PU_tranche01": "33,99",
+    "PU_tranche02": "28,325",
+    "Standard": "false"
+  }
+}

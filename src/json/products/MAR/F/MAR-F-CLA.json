@@ -1,0 +1,62 @@
+{
+  "MAR-F-CLA-ALL": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  },
+  "MAR-F-CLA-DEN": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T003"
+  },
+  "MAR-F-CLA-DOR": {
+    "Faconnage": "F002",
+    "Rainage": "R001",
+    "Massicot": "M006",
+    "Template": "T008"
+  },
+  "MAR-F-CLA-ICO": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "MAR-F-CLA-NOE": {
+    "Faconnage": "F015",
+    "Rainage": "R002",
+    "Massicot": "M006",
+    "Template": "T009"
+  },
+  "MAR-F-CLA-CHA": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T015"
+  },
+  "MAR-F-CLA-COL": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T010"
+  },
+  "MAR-F-CLA-EM": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M010",
+    "Template": "T015"
+  },
+  "MAR-F-CLA-JAR": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M018",
+    "Template": "T002"
+  },
+  "MAR-F-CLA-LET": {
+    "Faconnage": "F001",
+    "Rainage": "R001",
+    "Massicot": "M010",
+    "Template": "T006"
+  }
+}

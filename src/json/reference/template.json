@@ -1,0 +1,128 @@
+{
+  "T001": {
+    "Format_ouvert": "200x145",
+    "Format_ferme": "100x145",
+    "Libellé": "T001_100x145mm_200x145mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T002": {
+    "Format_ouvert": "100x145",
+    "Format_ferme": "100x145",
+    "Libellé": "T002_100x145mm_100x145mm",
+    "Massicot": "M018",
+    "Pose": "8"
+  },
+  "T003": {
+    "Format_ouvert": "100x210",
+    "Format_ferme": "100x210",
+    "Libellé": "T003_100x210mm_100x210mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T004": {
+    "Format_ouvert": "105x219",
+    "Format_ferme": "105x219",
+    "Libellé": "T004_105x219mm_105x219mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T005": {
+    "Format_ouvert": "290x100",
+    "Format_ferme": "145x100",
+    "Libellé": "T005_145x100mm_290x100mm",
+    "Massicot": "M008",
+    "Pose": "3"
+  },
+  "T006": {
+    "Format_ouvert": "145x200",
+    "Format_ferme": "145x100",
+    "Libellé": "T006_145x100mm_145x200mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T007": {
+    "Format_ouvert": "145x100",
+    "Format_ferme": "145x100",
+    "Libellé": "T007_145x100mm_145x100mm",
+    "Massicot": "M018",
+    "Pose": "8"
+  },
+  "T008": {
+    "Format_ouvert": "250x150",
+    "Format_ferme": "150x150",
+    "Libellé": "T008_150x150mm_250x150mm",
+    "Massicot": "M006",
+    "Pose": "2"
+  },
+  "T009": {
+    "Format_ouvert": "300x150",
+    "Format_ferme": "150x150",
+    "Libellé": "T009_150x150mm_300x150mm",
+    "Massicot": "M006",
+    "Pose": "2"
+  },
+  "T010": {
+    "Format_ouvert": "150x150",
+    "Format_ferme": "150x150",
+    "Libellé": "T010_150x150mm_150x150mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T011": {
+    "Format_ouvert": "150x210",
+    "Format_ferme": "150x210",
+    "Libellé": "T011_150x210mm_150x210mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T012": {
+    "Format_ouvert": "210x100",
+    "Format_ferme": "210x100",
+    "Libellé": "T012_210x100mm_210x100mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T013": {
+    "Format_ouvert": "210x150",
+    "Format_ferme": "210x150",
+    "Libellé": "T013_210x150mm_210x150mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T014": {
+    "Format_ouvert": "219x210",
+    "Format_ferme": "219x105",
+    "Libellé": "T014_219x105mm_219x210mm",
+    "Massicot": "M006",
+    "Pose": "2"
+  },
+  "T015": {
+    "Format_ouvert": "219x105",
+    "Format_ferme": "219x105",
+    "Libellé": "T015_219x105mm_219x105mm",
+    "Massicot": "M010",
+    "Pose": "4"
+  },
+  "T016": {
+    "Format_ouvert": "055x085",
+    "Format_ferme": "055x085",
+    "Libellé": "T016_055x085mm_055x085mm",
+    "Massicot": "M038",
+    "Pose": "18"
+  },
+  "T017": {
+    "Format_ouvert": "068x068",
+    "Format_ferme": "068x068",
+    "Libellé": "T017_068x068mm_068x068mm",
+    "Massicot": "M042",
+    "Pose": "20"
+  },
+  "T018": {
+    "Format_ouvert": "085x055",
+    "Format_ferme": "085x055",
+    "Libellé": "T018_085x055mm_085x055mm",
+    "Massicot": "M038",
+    "Pose": "18"
+  }
+}

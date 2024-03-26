@@ -1,0 +1,8 @@
+﻿;Unité;Libellé;PU_tranche01;PU_tranche02;Standard
+O000;M;Insertion Document -Aucune;0;0;true
+O002;M;Collage;46,35;41,2;false
+O004;U;Insertion Sous Tube De Document Pour Expédition Colis;2,472;2,472;false
+O901;M;Insertion Document -Sans Rapprochement (Par Document);7,21;5,15;true
+O902;M;Insertion Document -Avec Rapprochement (Par Document);30,9;25,75;true
+O903;M;Insertion Doc À L'Italienne Ou À Droite -Sans Rapprochement (Par Document);7,931;5,665;false
+O904;M;Insertion Doc À L'Italienne Ou À Droite -Avec Rapprochement (Par Document);33,99;28,325;false

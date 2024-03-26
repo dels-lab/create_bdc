@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Renseignement des informations</title>
+  <link rel="stylesheet" type="text/css" href="../src/styles/style.css">
+  <script src="../src/scripts/initInformation.js"></script>
+</head>
+<body>
+
+  <form action="/executer-script" method="post">
+    <h1>Personnalisez le bon de commande</h1>
+
+    <!-- INFORMATION GENERALES -->
+    <h2>Informations générales</h2>
+    <fieldset>
+        <legend>Information générales</legend>
+
+        <!-- REFERENCE -->
+
+        <div>
+          <label for="selectDate">Date du bon de commande :</label>
+          <input type="date" id="selectDate" name="selectDate">
+          <input type="text" id="date" name="date" style="display: none;">
+        </div>
+
+        <div>
+            <label for="reference">Référence :</label>
+            <input type="text" id="reference" name="reference" placeholder="1053EVT240031">
+        </div>
+
+        <!-- N° DOSSIER -->
+        <div>
+            <label for="numDossier">N° Dossier D1 :</label>
+            <input type="text" id="numDossier" name="numDossier" placeholder="70170084">
+        </div>
+
+    </fieldset>
+
+    <!-- ADDRESSES -->
+    <h2>Adresse de livraison</h2>
+    <fieldset>
+      <legend>Adresse</legend>
+
+      <div class="gridColumn">
+        <div>
+          <label for="civility">Civilité :</label>
+          <select id="civility" name="civility">
+            <option value="Mr">M.</option>
+            <option value="Mme">Mme</option>
+            <option value="Mlle">Mlle</option>
+          </select>
+        </div>
+  
+        <div>
+          <label for="lastName">Nom :</label>
+          <input type="text" id="lastName" name="lastName">
+        </div>
+  
+        <div>
+          <label for="firstName">Prénom :</label>
+          <input type="text" id="firstName" name="firstName">
+        </div>
+      </div>
+
+      <div>
+        <label for="deliveryPoint">Identification du point de remise:</label>
+        <input type="text" id="deliveryPoint" name="deliveryPoint" placeholder="N˚d’appartement, étage, couloir, escalier" >
+      </div>
+
+      <div>
+        <label for="buildingLocation">Complément d'adresse:</label>
+        <input type="text" id="buildingLocation" name="buildingLocation" placeholder="Entrée, bâtiment, immeuble">
+      </div>
+
+      <div>
+        <label for="streetName">Libellé de la voie :</label>
+        <input type="text" id="streetName" name="streetName" placeholder="Numéro de maison et libellé de la voie (rue, avenue, hameau)">
+      </div>
+
+      <div>
+        <label for="additionalLocation">Complément de localisation :</label>
+        <input type="text" id="additionalLocation" name="additionalLocation" placeholder="Service de distribution, complément de localisation de la voie">
+      </div>
+
+      <div class="gridColumn">
+        <div>
+          <label for="postalCode">Code postal :</label>
+          <input type="text" id="postalCode" name="postalCode">
+        </div>
+    
+        <div>
+          <label for="cityName">Ville :</label>
+          <input type="text" id="cityName" name="cityName" >
+        </div>
+      </div>
+      
+    </fieldset>
+    
+    <!-- PRODUITS -->
+    <h2>Produits</h2>
+    <fieldset>
+      <legend>Informations produits</legend>
+
+        <div>
+          <label for="numberOfProducts">Bon de commande avec plusieurs modèles (faire-part, menu, remerciement), spécifiez le nombre total :</label>
+          <input type="number" id="numberOfProducts" name="numberOfProducts" min="1" value="1">
+        </div>
+      
+        <!-- N° COMMANDE -->
+        <div id="detailsFab"></div>
+    </fieldset>
+
+    <!-- LIVRAISON -->
+    <h2>Expédition</h2>
+    <fieldset>
+      <legend>Configuration d'expédition</legend>
+
+      <div>
+        <label for="conditionnement">Choix du conditionnement :</label>
+        <select id="conditionnement" name="conditionnement">
+        </select>
+      </div>
+
+      <div>
+        <label for="option">Choix de l'option :</label>
+        <select id="option" name="option">
+        </select>
+      </div>
+
+      <div>
+        <label for="routage">Choix de l'expédition :</label>
+        <select id="routage" name="routage">
+        </select>
+      </div>
+
+    </fieldset>
+
+    <!-- FIN FORMULAIRE -->
+    <h3>Validation</h3>
+    <button type="submit">Valider</button>
+</form>
+</body>
+</html>

@@ -1,0 +1,90 @@
+{
+  "P027": {
+    "Unité": "M",
+    "Libellé": "Colotech + 350 G Sra3",
+    "Poids": "350",
+    "PU_tranche01": "151,41",
+    "PU_tranche02": "151,41",
+    "Standard": "true"
+  },
+  "P028": {
+    "Unité": "M",
+    "Libellé": "Colotech Gloss 280 G Sra3",
+    "Poids": "280",
+    "PU_tranche01": "91,9172",
+    "PU_tranche02": "91,9172",
+    "Standard": "true"
+  },
+  "P029": {
+    "Unité": "M",
+    "Libellé": "Colotech + Gloss 350Gr Sra3",
+    "Poids": "300",
+    "PU_tranche01": "125,0317",
+    "PU_tranche02": "125,0317",
+    "Standard": "true"
+  },
+  "P036": {
+    "Unité": "M",
+    "Libellé": "Colotech Silk 210 Gr Sra3",
+    "Poids": "300",
+    "PU_tranche01": "57,9066",
+    "PU_tranche02": "57,9066",
+    "Standard": "false"
+  },
+  "P039": {
+    "Unité": "M",
+    "Libellé": "Colotech Silk 250 Grs Sra3",
+    "Poids": "210",
+    "PU_tranche01": "60,3683",
+    "PU_tranche02": "60,3683",
+    "Standard": "false"
+  },
+  "P041": {
+    "Unité": "M",
+    "Libellé": "Colotech Silk 280 Gr Sra3",
+    "Poids": "250",
+    "PU_tranche01": "92,3292",
+    "PU_tranche02": "92,3292",
+    "Standard": "false"
+  },
+  "P054": {
+    "Unité": "M",
+    "Libellé": "Colotech+ 200 Gr Sra3",
+    "Poids": "280",
+    "PU_tranche01": "65,3638",
+    "PU_tranche02": "65,3638",
+    "Standard": "false"
+  },
+  "P057": {
+    "Unité": "M",
+    "Libellé": "Colotech+ 250 Gr Sra3",
+    "Poids": "200",
+    "PU_tranche01": "69,8443",
+    "PU_tranche02": "69,8443",
+    "Standard": "false"
+  },
+  "P060": {
+    "Unité": "M",
+    "Libellé": "Colotech+ 300 Gr Sra3",
+    "Poids": "250",
+    "PU_tranche01": "89,0538",
+    "PU_tranche02": "89,0538",
+    "Standard": "true"
+  },
+  "P069": {
+    "Unité": "M",
+    "Libellé": "Colotech+ Gloss 250Gr Sra3",
+    "Poids": "250",
+    "PU_tranche01": "143,9013",
+    "PU_tranche02": "143,9013",
+    "Standard": "false"
+  },
+  "P306": {
+    "Unité": "M",
+    "Libellé": "Colour Impression 250Gr Sra3",
+    "Poids": "250",
+    "PU_tranche01": "71,482",
+    "PU_tranche02": "71,482",
+    "Standard": "false"
+  }
+}

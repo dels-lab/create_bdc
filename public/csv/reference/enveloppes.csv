@@ -1,0 +1,16 @@
+﻿;Unité;Format;Libellé;Poids;PU_tranche01;PU_tranche02;Standard
+E000;M;Pas d'enveloppe;Pas d'enveloppe;0;0;0;true
+E082;M;162x229 mm;Ep Blanche C5 S/F (Stock Exchange);0;0;0;false
+E296;M;162x229 mm;Blanche 162X229 A/F (Stock Data);0;25,75;25,75;false
+E297;M;162x229 mm;Blanche 115X229 A/F (Stock Data);0;21,63;21,63;false
+E327;M;162x162 mm;Ep_Bl_162*162_E07;6;0;0;true
+E331;M;115x229 mm;Blanche 115*229 S/F Neryos;0;0;0;false
+E335;M;115x229 mm;Blanche 115X229 S/F;0;18,54;18,54;false
+E339;M;162x229 mm;Ep C5 Sf Blan 120Gr;0;0;0;false
+E340;M;162x162 mm;Ep Blanche 162*162 S/F E15 (Neryos);6;0;0;true
+E350;M;114x229 mm;Ep_Blanc_114/229 A/F;0;0;0;false
+E357;M;162x229 mm;Ep_Blanc_162*229_Sf_115Gr Ref:E06;9;0;0;true
+E358;M;162x162 mm;Ep Blanche 162*162 S/F E15 Avec Bandes Adhésives;0;0;0;false
+E369;M;162x229 mm;Ep_C5_S/F_Blanche (Stock Data);0;23,69;23,69;false
+E535;M;115x229 mm;Blanche 115*229 S/F (E03);6;0;0;true
+E636;M;114x162 mm;Ep_C6_Sf_E05;6;0;0;true

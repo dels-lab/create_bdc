@@ -1,0 +1,25 @@
+﻿;Unité;Libellé;PU_tranche01;PU_tranche02;Standard
+F000;M;Aucun Pli;0;0;true
+F001;M;Un Pli Simple;10,3;8,24;true
+F002;M;Un Pli Simple Décalé;10,3;8,24;true
+F004;M;Un Pli Accordéon;11,33;9,27;true
+F009;M;Deux Plis Roulés;11,33;9,27;true
+F010;M;Deux Plis Roulés Décalés;11,33;9,27;true
+F014;M;Un Pli Vertical + Un Pli Horizontal;13,39;11,33;true
+F015;M;Un Pli Fenêtre;27,81;23,69;true
+F020;M;Un Pli Vertical;10,3;8,24;true
+F003;M;Un Pli Portefeuille;27,81;23,69;false
+F005;M;Un Pli Accordéon Décalé;11,33;9,27;false
+F006;M;Deux Plis Simples;11,33;9,27;false
+F007;M;Deux Plis Croisés;13,39;11,33;false
+F008;M;Deux Plis Économiques (2* Bord À Bord);11,33;9,27;false
+F011;M;Deux Plis Roulés Décalés À L'Italienne;11,33;9,27;false
+F012;M;Trois Plis Roulés;11,33;9,27;false
+F013;M;Trois Plis Roulés Décalés;11,33;9,27;false
+F016;M;Un Pli Portefeuille Décalé Coupe Libératoire;27,81;23,69;false
+F017;M;Un Pli Accordéon Et Un Pli Simple;21,63;17,51;false
+F018;M;Un Pli Vertical Deux Plis Roulés;11,33;9,27;false
+F019;M;Quatre Plis Accordéons Décalés;15,45;13,39;false
+F029;M;Perforation Simple;12,36;8,24;false
+F030;M;Perforation Double;18,54;12,36;false
+F031;M;Perforation Triple;24,72;16,48;false

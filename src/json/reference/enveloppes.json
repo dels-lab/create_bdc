@@ -1,0 +1,137 @@
+{
+  "E000": {
+    "Unité": "M",
+    "Format": "Pas d'enveloppe",
+    "Libellé": "Pas d'enveloppe",
+    "Poids": "0",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "E082": {
+    "Unité": "M",
+    "Format": "162x229 mm",
+    "Libellé": "Ep Blanche C5 S/F (Stock Exchange)",
+    "Poids": "0",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "false"
+  },
+  "E296": {
+    "Unité": "M",
+    "Format": "162x229 mm",
+    "Libellé": "Blanche 162X229 A/F (Stock Data)",
+    "Poids": "0",
+    "PU_tranche01": "25,75",
+    "PU_tranche02": "25,75",
+    "Standard": "false"
+  },
+  "E297": {
+    "Unité": "M",
+    "Format": "162x229 mm",
+    "Libellé": "Blanche 115X229 A/F (Stock Data)",
+    "Poids": "0",
+    "PU_tranche01": "21,63",
+    "PU_tranche02": "21,63",
+    "Standard": "false"
+  },
+  "E327": {
+    "Unité": "M",
+    "Format": "162x162 mm",
+    "Libellé": "Ep_Bl_162*162_E07",
+    "Poids": "6",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "E331": {
+    "Unité": "M",
+    "Format": "115x229 mm",
+    "Libellé": "Blanche 115*229 S/F Neryos",
+    "Poids": "0",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "false"
+  },
+  "E335": {
+    "Unité": "M",
+    "Format": "115x229 mm",
+    "Libellé": "Blanche 115X229 S/F",
+    "Poids": "0",
+    "PU_tranche01": "18,54",
+    "PU_tranche02": "18,54",
+    "Standard": "false"
+  },
+  "E339": {
+    "Unité": "M",
+    "Format": "162x229 mm",
+    "Libellé": "Ep C5 Sf Blan 120Gr",
+    "Poids": "0",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "false"
+  },
+  "E340": {
+    "Unité": "M",
+    "Format": "162x162 mm",
+    "Libellé": "Ep Blanche 162*162 S/F E15 (Neryos)",
+    "Poids": "6",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "E350": {
+    "Unité": "M",
+    "Format": "114x229 mm",
+    "Libellé": "Ep_Blanc_114/229 A/F",
+    "Poids": "0",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "false"
+  },
+  "E357": {
+    "Unité": "M",
+    "Format": "162x229 mm",
+    "Libellé": "Ep_Blanc_162*229_Sf_115Gr Ref:E06",
+    "Poids": "9",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "E358": {
+    "Unité": "M",
+    "Format": "162x162 mm",
+    "Libellé": "Ep Blanche 162*162 S/F E15 Avec Bandes Adhésives",
+    "Poids": "0",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "false"
+  },
+  "E369": {
+    "Unité": "M",
+    "Format": "162x229 mm",
+    "Libellé": "Ep_C5_S/F_Blanche (Stock Data)",
+    "Poids": "0",
+    "PU_tranche01": "23,69",
+    "PU_tranche02": "23,69",
+    "Standard": "false"
+  },
+  "E535": {
+    "Unité": "M",
+    "Format": "115x229 mm",
+    "Libellé": "Blanche 115*229 S/F (E03)",
+    "Poids": "6",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "E636": {
+    "Unité": "M",
+    "Format": "114x162 mm",
+    "Libellé": "Ep_C6_Sf_E05",
+    "Poids": "6",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  }
+}

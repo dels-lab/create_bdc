@@ -1,0 +1,37 @@
+{
+  "R000": {
+    "Unité": "M",
+    "Libellé": "Aucun Rainage",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "R001": {
+    "Unité": "M",
+    "Libellé": "Simple Rainage",
+    "PU_tranche01": "46,35",
+    "PU_tranche02": "36,05",
+    "Standard": "true"
+  },
+  "R002": {
+    "Unité": "M",
+    "Libellé": "Double Rainage",
+    "PU_tranche01": "51,5",
+    "PU_tranche02": "39,14",
+    "Standard": "true"
+  },
+  "R003": {
+    "Unité": "M",
+    "Libellé": "Triple Rainage",
+    "PU_tranche01": "56,65",
+    "PU_tranche02": "42,23",
+    "Standard": "false"
+  },
+  "R004": {
+    "Unité": "M",
+    "Libellé": "Quadruple Rainage",
+    "PU_tranche01": "61,8",
+    "PU_tranche02": "44,29",
+    "Standard": "false"
+  }
+}

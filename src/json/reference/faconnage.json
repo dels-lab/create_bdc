@@ -1,0 +1,170 @@
+{
+  "F000": {
+    "Unité": "M",
+    "Libellé": "Aucun Pli",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true"
+  },
+  "F001": {
+    "Unité": "M",
+    "Libellé": "Un Pli Simple",
+    "PU_tranche01": "10,3",
+    "PU_tranche02": "8,24",
+    "Standard": "true"
+  },
+  "F002": {
+    "Unité": "M",
+    "Libellé": "Un Pli Simple Décalé",
+    "PU_tranche01": "10,3",
+    "PU_tranche02": "8,24",
+    "Standard": "true"
+  },
+  "F004": {
+    "Unité": "M",
+    "Libellé": "Un Pli Accordéon",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "true"
+  },
+  "F009": {
+    "Unité": "M",
+    "Libellé": "Deux Plis Roulés",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "true"
+  },
+  "F010": {
+    "Unité": "M",
+    "Libellé": "Deux Plis Roulés Décalés",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "true"
+  },
+  "F014": {
+    "Unité": "M",
+    "Libellé": "Un Pli Vertical + Un Pli Horizontal",
+    "PU_tranche01": "13,39",
+    "PU_tranche02": "11,33",
+    "Standard": "true"
+  },
+  "F015": {
+    "Unité": "M",
+    "Libellé": "Un Pli Fenêtre",
+    "PU_tranche01": "27,81",
+    "PU_tranche02": "23,69",
+    "Standard": "true"
+  },
+  "F020": {
+    "Unité": "M",
+    "Libellé": "Un Pli Vertical",
+    "PU_tranche01": "10,3",
+    "PU_tranche02": "8,24",
+    "Standard": "true"
+  },
+  "F003": {
+    "Unité": "M",
+    "Libellé": "Un Pli Portefeuille",
+    "PU_tranche01": "27,81",
+    "PU_tranche02": "23,69",
+    "Standard": "false"
+  },
+  "F005": {
+    "Unité": "M",
+    "Libellé": "Un Pli Accordéon Décalé",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "false"
+  },
+  "F006": {
+    "Unité": "M",
+    "Libellé": "Deux Plis Simples",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "false"
+  },
+  "F007": {
+    "Unité": "M",
+    "Libellé": "Deux Plis Croisés",
+    "PU_tranche01": "13,39",
+    "PU_tranche02": "11,33",
+    "Standard": "false"
+  },
+  "F008": {
+    "Unité": "M",
+    "Libellé": "Deux Plis Économiques (2* Bord À Bord)",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "false"
+  },
+  "F011": {
+    "Unité": "M",
+    "Libellé": "Deux Plis Roulés Décalés À L'Italienne",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "false"
+  },
+  "F012": {
+    "Unité": "M",
+    "Libellé": "Trois Plis Roulés",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "false"
+  },
+  "F013": {
+    "Unité": "M",
+    "Libellé": "Trois Plis Roulés Décalés",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "false"
+  },
+  "F016": {
+    "Unité": "M",
+    "Libellé": "Un Pli Portefeuille Décalé Coupe Libératoire",
+    "PU_tranche01": "27,81",
+    "PU_tranche02": "23,69",
+    "Standard": "false"
+  },
+  "F017": {
+    "Unité": "M",
+    "Libellé": "Un Pli Accordéon Et Un Pli Simple",
+    "PU_tranche01": "21,63",
+    "PU_tranche02": "17,51",
+    "Standard": "false"
+  },
+  "F018": {
+    "Unité": "M",
+    "Libellé": "Un Pli Vertical Deux Plis Roulés",
+    "PU_tranche01": "11,33",
+    "PU_tranche02": "9,27",
+    "Standard": "false"
+  },
+  "F019": {
+    "Unité": "M",
+    "Libellé": "Quatre Plis Accordéons Décalés",
+    "PU_tranche01": "15,45",
+    "PU_tranche02": "13,39",
+    "Standard": "false"
+  },
+  "F029": {
+    "Unité": "M",
+    "Libellé": "Perforation Simple",
+    "PU_tranche01": "12,36",
+    "PU_tranche02": "8,24",
+    "Standard": "false"
+  },
+  "F030": {
+    "Unité": "M",
+    "Libellé": "Perforation Double",
+    "PU_tranche01": "18,54",
+    "PU_tranche02": "12,36",
+    "Standard": "false"
+  },
+  "F031": {
+    "Unité": "M",
+    "Libellé": "Perforation Triple",
+    "PU_tranche01": "24,72",
+    "PU_tranche02": "16,48",
+    "Standard": "false"
+  }
+}

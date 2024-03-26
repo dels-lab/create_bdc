@@ -1,0 +1,122 @@
+{
+  "I000": {
+    "Unité": "M",
+    "Libellé": "Pas d'impression",
+    "PU_tranche01": "0",
+    "PU_tranche02": "0",
+    "Standard": "true",
+    "Type": "Aucun"
+  },
+  "I001": {
+    "Unité": "M",
+    "Libellé": "Neryos - Cmjn - C6 (114X229)",
+    "PU_tranche01": "58,5555",
+    "PU_tranche02": "48,8529",
+    "Standard": "true",
+    "Type": "NERYOS"
+  },
+  "I002": {
+    "Unité": "M",
+    "Libellé": "Neryos - Noir - C6 (114X229)",
+    "PU_tranche01": "41,9725",
+    "PU_tranche02": "32,2699",
+    "Standard": "false",
+    "Type": "NERYOS"
+  },
+  "I00A": {
+    "Unité": "M",
+    "Libellé": "Ricoh - Cmjn - Rv - 18 Up",
+    "PU_tranche01": "9,579",
+    "PU_tranche02": "8,7756",
+    "Standard": "true",
+    "Type": "RICOH"
+  },
+  "I00B": {
+    "Unité": "M",
+    "Libellé": "Ricoh - Cmjn - Rv - 20 Up",
+    "PU_tranche01": "8,6108",
+    "PU_tranche02": "7,9001",
+    "Standard": "true",
+    "Type": "RICOH"
+  },
+  "I146": {
+    "Unité": "M",
+    "Libellé": "Neryos - Noir - C5 (162X229) Hors Achat Enveloppe",
+    "PU_tranche01": "45,8762",
+    "PU_tranche02": "36,1839",
+    "Standard": "false",
+    "Type": "NERYOS"
+  },
+  "I147": {
+    "Unité": "M",
+    "Libellé": "Neryos - Noir - C4 (324X229) Hors Achat Enveloppe",
+    "PU_tranche01": "62,9227",
+    "PU_tranche02": "53,2201",
+    "Standard": "false",
+    "Type": "NERYOS"
+  },
+  "I148": {
+    "Unité": "M",
+    "Libellé": "Neryos - Noir - Autres Formats",
+    "PU_tranche01": "45,8762",
+    "PU_tranche02": "36,1839",
+    "Standard": "false",
+    "Type": "NERYOS"
+  },
+  "I149": {
+    "Unité": "M",
+    "Libellé": "Neryos - Cmjn - C5 (162X229) Hors Achat Enveloppe",
+    "PU_tranche01": "69,5765",
+    "PU_tranche02": "59,8739",
+    "Standard": "false",
+    "Type": "NERYOS"
+  },
+  "I150": {
+    "Unité": "M",
+    "Libellé": "Neryos - Cmjn - C4 (324X229) Hors Achat Enveloppe",
+    "PU_tranche01": "103,1957",
+    "PU_tranche02": "93,4931",
+    "Standard": "false",
+    "Type": "NERYOS"
+  },
+  "I151": {
+    "Unité": "M",
+    "Libellé": "Neryos - Cmjn - Autres Formats",
+    "PU_tranche01": "69,5765",
+    "PU_tranche02": "59,8739",
+    "Standard": "false",
+    "Type": "NERYOS"
+  },
+  "I339": {
+    "Unité": "M",
+    "Libellé": "Ricoh - Cmjn - Rv - 2 Up",
+    "PU_tranche01": "86,1492",
+    "PU_tranche02": "79,0422",
+    "Standard": "true",
+    "Type": "RICOH"
+  },
+  "I341": {
+    "Unité": "M",
+    "Libellé": "Ricoh - Cmjn - Rv - 3 Up",
+    "PU_tranche01": "57,4328",
+    "PU_tranche02": "52,6948",
+    "Standard": "true",
+    "Type": "RICOH"
+  },
+  "I342": {
+    "Unité": "M",
+    "Libellé": "Ricoh - Cmjn - Rv - 4 Up",
+    "PU_tranche01": "43,0746",
+    "PU_tranche02": "39,5211",
+    "Standard": "true",
+    "Type": "RICOH"
+  },
+  "I344": {
+    "Unité": "M",
+    "Libellé": "Ricoh - Cmjn - Rv - 8 Up",
+    "PU_tranche01": "21,5373",
+    "PU_tranche02": "19,7554",
+    "Standard": "true",
+    "Type": "RICOH"
+  }
+}

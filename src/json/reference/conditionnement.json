@@ -1,0 +1,51 @@
+{
+  "C001": {
+    "Unité": "M",
+    "Libellé": "Mise Sous Pli Mécanisable Dans Une Enveloppe Mécanisable",
+    "PU_tranche01": "49,44",
+    "PU_tranche02": "49,44",
+    "Standard": "false"
+  },
+  "C002": {
+    "Unité": "M",
+    "Libellé": "Mise Sous Pli Mécanisable Enveloppe Non Mécanisable",
+    "PU_tranche01": "54,384",
+    "PU_tranche02": "50,985",
+    "Standard": "false"
+  },
+  "C003": {
+    "Unité": "M",
+    "Libellé": "Mise Sous Pli Mécanisable Dans Une Enveloppe Mécanisable - Patte Non Collée",
+    "PU_tranche01": "49,44",
+    "PU_tranche02": "46,35",
+    "Standard": "false"
+  },
+  "C004": {
+    "Unité": "M",
+    "Libellé": "Mise Sous Pli Manuelle Dans Une Enveloppe Mécanisable",
+    "PU_tranche01": "94,76",
+    "PU_tranche02": "94,76",
+    "Standard": "true"
+  },
+  "C005": {
+    "Unité": "M",
+    "Libellé": "Mise Sous Pli Manuelle Enveloppe Non Mécanisable",
+    "PU_tranche01": "113,3",
+    "PU_tranche02": "113,3",
+    "Standard": "false"
+  },
+  "C006": {
+    "Unité": "U",
+    "Libellé": "Conditionnement En Colis De Document Pour Expédition Colis",
+    "PU_tranche01": "6,489",
+    "PU_tranche02": "6,489",
+    "Standard": "true"
+  },
+  "C007": {
+    "Unité": "U",
+    "Libellé": "Conditionnement Sous Film De Document Pour Expédition Colis",
+    "PU_tranche01": "2,472",
+    "PU_tranche02": "2,472",
+    "Standard": "false"
+  }
+}

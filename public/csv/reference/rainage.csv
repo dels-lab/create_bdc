@@ -1,0 +1,6 @@
+﻿;Unité;Libellé;PU_tranche01;PU_tranche02;Standard
+R000;M;Aucun Rainage;0;0;true
+R001;M;Simple Rainage;46,35;36,05;true
+R002;M;Double Rainage;51,5;39,14;true
+R003;M;Triple Rainage;56,65;42,23;false
+R004;M;Quadruple Rainage;61,8;44,29;false

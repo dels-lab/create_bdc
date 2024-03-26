@@ -1,0 +1,20 @@
+{
+  "PRO-C-LIB-1-BLC": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M038",
+    "Template": "T016"
+  },
+  "PRO-C-LIB-2-BLC": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M042",
+    "Template": "T017"
+  },
+  "PRO-C-LIB-3-BLC": {
+    "Faconnage": "F000",
+    "Rainage": "R000",
+    "Massicot": "M038",
+    "Template": "T018"
+  }
+}

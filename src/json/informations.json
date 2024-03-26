@@ -1,0 +1,35 @@
+{
+  "commande": {
+    "date": "26 mars 2024",
+    "numDossier": "NUM DOSSIER",
+    "reference": "REFERENCE"
+  },
+  "adressBlock": {
+    "civility": "Mr",
+    "lastName": "",
+    "firstName": "",
+    "deliveryPoint": "",
+    "buildingLocation": "",
+    "streetName": "",
+    "additionalLocation": "",
+    "postalCode": "",
+    "cityName": ""
+  },
+  "expedition": {},
+  "products": [
+    {
+      "commande": "M2603240000068",
+      "gabarit": "MAR-R-CIN-CAM",
+      "paperType": "P027",
+      "template": "T002",
+      "paperImpression": "I000",
+      "paperQuantite": "122",
+      "enveloppeType": "E000",
+      "enveloppeImpression": "I000",
+      "enveloppeQuantite": "122",
+      "faconnage": "F000",
+      "rainage": "R000",
+      "massicot": "M018"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "M001": {
+    "Unité": "M",
+    "Nombres coupes": "1",
+    "Libellé": "1 Coupe",
+    "PU_tranche01": "3,09",
+    "PU_tranche02": "2,2145",
+    "Standard": "false"
+  },
+  "M002": {
+    "Unité": "M",
+    "Nombres coupes": "2",
+    "Libellé": "2 Coupes",
+    "PU_tranche01": "6,18",
+    "PU_tranche02": "4,429",
+    "Standard": "false"
+  },
+  "M003": {
+    "Unité": "M",
+    "Nombres coupes": "3",
+    "Libellé": "3 Coupes",
+    "PU_tranche01": "9,27",
+    "PU_tranche02": "6,6435",
+    "Standard": "false"
+  },
+  "M004": {
+    "Unité": "M",
+    "Nombres coupes": "4",
+    "Libellé": "4 Coupes",
+    "PU_tranche01": "12,36",
+    "PU_tranche02": "8,858",
+    "Standard": "false"
+  },
+  "M005": {
+    "Unité": "M",
+    "Nombres coupes": "5",
+    "Libellé": "5 Coupes",
+    "PU_tranche01": "15,45",
+    "PU_tranche02": "11,0725",
+    "Standard": "false"
+  },
+  "M006": {
+    "Unité": "M",
+    "Nombres coupes": "6",
+    "Libellé": "6 Coupes",
+    "PU_tranche01": "18,54",
+    "PU_tranche02": "13,287",
+    "Standard": "true"
+  },
+  "M007": {
+    "Unité": "M",
+    "Nombres coupes": "7",
+    "Libellé": "7 Coupes",
+    "PU_tranche01": "21,63",
+    "PU_tranche02": "15,5015",
+    "Standard": "false"
+  },
+  "M008": {
+    "Unité": "M",
+    "Nombres coupes": "8",
+    "Libellé": "8 Coupes",
+    "PU_tranche01": "24,72",
+    "PU_tranche02": "17,716",
+    "Standard": "true"
+  },
+  "M009": {
+    "Unité": "M",
+    "Nombres coupes": "9",
+    "Libellé": "9 Coupes",
+    "PU_tranche01": "27,81",
+    "PU_tranche02": "19,9305",
+    "Standard": "false"
+  },
+  "M010": {
+    "Unité": "M",
+    "Nombres coupes": "10",
+    "Libellé": "10 Coupes",
+    "PU_tranche01": "30,9",
+    "PU_tranche02": "22,145",
+    "Standard": "true"
+  },
+  "M011": {
+    "Unité": "M",
+    "Nombres coupes": "11",
+    "Libellé": "11 Coupes",
+    "PU_tranche01": "33,99",
+    "PU_tranche02": "24,3595",
+    "Standard": "false"
+  },
+  "M012": {
+    "Unité": "M",
+    "Nombres coupes": "12",
+    "Libellé": "12 Coupes",
+    "PU_tranche01": "37,08",
+    "PU_tranche02": "26,574",
+    "Standard": "false"
+  },
+  "M013": {
+    "Unité": "M",
+    "Nombres coupes": "13",
+    "Libellé": "13 Coupes",
+    "PU_tranche01": "40,17",
+    "PU_tranche02": "28,7885",
+    "Standard": "false"
+  },
+  "M014": {
+    "Unité": "M",
+    "Nombres coupes": "14",
+    "Libellé": "14 Coupes",
+    "PU_tranche01": "43,26",
+    "PU_tranche02": "31,003",
+    "Standard": "false"
+  },
+  "M015": {
+    "Unité": "M",
+    "Nombres coupes": "15",
+    "Libellé": "15 Coupes",
+    "PU_tranche01": "46,35",
+    "PU_tranche02": "33,2175",
+    "Standard": "false"
+  },
+  "M016": {
+    "Unité": "M",
+    "Nombres coupes": "16",
+    "Libellé": "16 Coupes",
+    "PU_tranche01": "49,44",
+    "PU_tranche02": "35,432",
+    "Standard": "false"
+  },
+  "M017": {
+    "Unité": "M",
+    "Nombres coupes": "17",
+    "Libellé": "17 Coupes",
+    "PU_tranche01": "52,53",
+    "PU_tranche02": "37,6465",
+    "Standard": "false"
+  },
+  "M018": {
+    "Unité": "M",
+    "Nombres coupes": "18",
+    "Libellé": "18 Coupes",
+    "PU_tranche01": "55,62",
+    "PU_tranche02": "39,861",
+    "Standard": "true"
+  },
+  "M019": {
+    "Unité": "M",
+    "Nombres coupes": "19",
+    "Libellé": "19 Coupes",
+    "PU_tranche01": "58,71",
+    "PU_tranche02": "42,0755",
+    "Standard": "false"
+  },
+  "M020": {
+    "Unité": "M",
+    "Nombres coupes": "20",
+    "Libellé": "20 Coupes",
+    "PU_tranche01": "61,8",
+    "PU_tranche02": "44,29",
+    "Standard": "false"
+  },
+  "M021": {
+    "Unité": "M",
+    "Nombres coupes": "21",
+    "Libellé": "21 Coupes",
+    "PU_tranche01": "64,89",
+    "PU_tranche02": "46,5045",
+    "Standard": "false"
+  },
+  "M022": {
+    "Unité": "M",
+    "Nombres coupes": "22",
+    "Libellé": "22 Coupes",
+    "PU_tranche01": "67,98",
+    "PU_tranche02": "48,719",
+    "Standard": "false"
+  },
+  "M023": {
+    "Unité": "M",
+    "Nombres coupes": "23",
+    "Libellé": "23 Coupes",
+    "PU_tranche01": "71,07",
+    "PU_tranche02": "50,9335",
+    "Standard": "false"
+  },
+  "M024": {
+    "Unité": "M",
+    "Nombres coupes": "24",
+    "Libellé": "24 Coupes",
+    "PU_tranche01": "74,16",
+    "PU_tranche02": "53,148",
+    "Standard": "false"
+  },
+  "M025": {
+    "Unité": "M",
+    "Nombres coupes": "25",
+    "Libellé": "25 Coupes",
+    "PU_tranche01": "77,25",
+    "PU_tranche02": "55,3625",
+    "Standard": "false"
+  },
+  "M026": {
+    "Unité": "M",
+    "Nombres coupes": "26",
+    "Libellé": "26 Coupes",
+    "PU_tranche01": "80,34",
+    "PU_tranche02": "57,577",
+    "Standard": "false"
+  },
+  "M027": {
+    "Unité": "M",
+    "Nombres coupes": "27",
+    "Libellé": "27 Coupes",
+    "PU_tranche01": "83,43",
+    "PU_tranche02": "59,7915",
+    "Standard": "false"
+  },
+  "M028": {
+    "Unité": "M",
+    "Nombres coupes": "28",
+    "Libellé": "28 Coupes",
+    "PU_tranche01": "86,52",
+    "PU_tranche02": "62,006",
+    "Standard": "false"
+  },
+  "M029": {
+    "Unité": "M",
+    "Nombres coupes": "29",
+    "Libellé": "29 Coupes",
+    "PU_tranche01": "89,61",
+    "PU_tranche02": "64,2205",
+    "Standard": "false"
+  },
+  "M030": {
+    "Unité": "M",
+    "Nombres coupes": "30",
+    "Libellé": "30 Coupes",
+    "PU_tranche01": "92,7",
+    "PU_tranche02": "66,435",
+    "Standard": "false"
+  },
+  "M031": {
+    "Unité": "M",
+    "Nombres coupes": "31",
+    "Libellé": "31 Coupes",
+    "PU_tranche01": "95,79",
+    "PU_tranche02": "68,6495",
+    "Standard": "false"
+  },
+  "M032": {
+    "Unité": "M",
+    "Nombres coupes": "32",
+    "Libellé": "32 Coupes",
+    "PU_tranche01": "98,88",
+    "PU_tranche02": "70,864",
+    "Standard": "false"
+  },
+  "M038": {
+    "Unité": "M",
+    "Nombres coupes": "38",
+    "Libellé": "38 Coupes",
+    "PU_tranche01": "117,42",
+    "PU_tranche02": "84,151",
+    "Standard": "true"
+  },
+  "M042": {
+    "Unité": "M",
+    "Nombres coupes": "42",
+    "Libellé": "42 Coupes",
+    "PU_tranche01": "129,78",
+    "PU_tranche02": "93,009",
+    "Standard": "true"
+  },
+  "M052": {
+    "Unité": "M",
+    "Nombres coupes": "52",
+    "Libellé": "52 Coupes",
+    "PU_tranche01": "160,68",
+    "PU_tranche02": "115,154",
+    "Standard": "false"
+  }
+}
